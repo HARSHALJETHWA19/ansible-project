@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-20-bullseye",
   "forwardPorts": [
     3000,
     8181
